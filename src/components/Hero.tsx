@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
-import avatar from "../../public/avatar.svg";
-import devices from "../../public/devices.svg";
+import avatar from "../../public/linkedin.png";
 
 interface HeroProps {
   title: string;
@@ -19,20 +18,13 @@ export default function Hero({ title, description }: HeroProps) {
         <div className="relative mb-12">
           <Image
             src={avatar}
-            alt="Matt Farley avatar"
-            width={170}
-            height={170}
+            alt="Kamal M avatar"
+            width={400}
+            height={400}
             className="mx-auto mb-4"
             priority
           />
-          <Image
-            src={devices}
-            alt="Devices illustration"
-            width={750}
-            height={400}
-            className="mx-auto mt-20"
-            priority
-          />
+
         </div>
       </div>
     </section>

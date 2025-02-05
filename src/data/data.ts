@@ -1,17 +1,13 @@
-// Import your project images here
 import project1 from "../../public/placeholder.jpg";
 import project2 from "../../public/placeholder.jpg";
-// import project3 from "../../public/placeholder.jpg";
-// import project4 from "../../public/placeholder.jpg";
-// import project5 from "../../public/placeholder.jpg";
-// import project6 from "../../public/placeholder.jpg";
+
 
 export const data = {
   name: "Kamal Mansour",
-  title: "Designer, Front-end Developer & Mentor",
-  summary: "I design and code beautifully simple things, and I love what I do.",
+  title: "Machine Learning Engineer",
+  summary: "I design and code ML/AI Systems, and I love what I do.",
   location: "United States",
-  bio: "Since beginning my journey as a freelance designer 12 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops.",
+  bio: "As a software engineer at Ford Motor Company, I apply my skills and knowledge in HTML5, Node.js, and JavaScript to develop and maintain web applications that support the company's automotive and mobility solutions. I have been working at Ford since March 2022, after graduating from Wayne State University with a bachelor's degree in computer science. I am also pursuing a master's degree in artificial intelligence at the University of Michigan, where I learn about the latest trends and techniques in machine learning, computer vision, natural language processing, and robotics. My goal is to use my education and experience to contribute to Ford's mission of creating smart vehicles for a smart world, and to advance the field of artificial intelligence with innovative and ethical applications. I enjoy working with a diverse and collaborative team of engineers, designers, and researchers, who share my passion for technology and problem-solving.",
   skills: [
     {
       title: "Machine Learning",
@@ -72,8 +68,8 @@ export const data = {
     email: "kamalbmansour@hotmail.com",
     phone: "3134453817",
     socialMedia: [
-      { name: "Github", url: "" },
-      { name: "Linkedin", url: "" },
+      { name: "Github", url: "https://github.com/kamalm96" },
+      { name: "Linkedin", url: "https://www.linkedin.com/in/kamal-mansour-2212a3106/" },
       { name: "Twitter", url: "" },
     ],
   },
@@ -98,26 +94,6 @@ export const data = {
       period: "2022 - 2023",
       description:
         "Developed and launched three scalable web applications using React, Java Spring Boot, and PostgreSQL, setting new benchmarks in production standards. Implemented CI/CD pipelines with Jenkins, cutting deployment times by 70%.",
-    },
-  ],
-  testimonials: [
-    {
-      quote:
-        "Matt was a real pleasure to work with and we look forward to working with him again. He's definitely the kind of designer you can trust with a project from start to finish.",
-      author: "Pascal Tremblay",
-      company: "Creative Lead, Good Kind",
-    },
-    {
-      quote:
-        "Matt's a clear communicator with the tenacity and confidence to really dig in to tricky design scenarios and the collaborative friction that's needed to produce excellent work.",
-      author: "Alvin Engler",
-      company: "Sr. Engineer, Cisco",
-    },
-    {
-      quote:
-        "Matt was a real pleasure to work with and we look forward to working with him again. He's definitely the kind of designer you can trust with a project from start to finish.",
-      author: "Erica Giugliano",
-      company: "Creative Lead, Neon",
     },
   ],
 };

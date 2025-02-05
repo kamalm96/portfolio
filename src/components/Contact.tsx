@@ -14,7 +14,6 @@ import {
 import Image from "next/image";
 import { data } from "../data/data";
 import React from "react";
-// import logo from "../../public/logo.png";
 
 const socialIcons = {
   Github: <FaGithub className="w-5 h-5" />,
