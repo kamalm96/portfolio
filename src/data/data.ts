@@ -53,7 +53,7 @@ export const data = {
         "• Utilized SQLC for type-safe query generation and performed database migrations using Go-Migrate.",
       ],
       image: project1,
-      link: "#",
+      link: "https://github.com/kamalm96/go-transaction",
     },
     {
       title: "Portfolio Website",
@@ -61,7 +61,7 @@ export const data = {
         "• Developed and deployed a responsive, high-performance portfolio website using Next.js on AWS.",
       ],
       image: project2,
-      link: "#",
+      link: "https://kamalmansour.com",
     },
   ],
   contact: {
