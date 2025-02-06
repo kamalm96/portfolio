@@ -7,13 +7,13 @@ export const data = {
   title: "Machine Learning Engineer",
   summary: "I design and code ML/AI Systems, and I love what I do.",
   location: "United States",
-  bio: "As a software engineer at Ford Motor Company, I apply my skills and knowledge in HTML5, Node.js, and JavaScript to develop and maintain web applications that support the company's automotive and mobility solutions. I have been working at Ford since March 2022, after graduating from Wayne State University with a bachelor's degree in computer science. I am also pursuing a master's degree in artificial intelligence at the University of Michigan, where I learn about the latest trends and techniques in machine learning, computer vision, natural language processing, and robotics. My goal is to use my education and experience to contribute to Ford's mission of creating smart vehicles for a smart world, and to advance the field of artificial intelligence with innovative and ethical applications. I enjoy working with a diverse and collaborative team of engineers, designers, and researchers, who share my passion for technology and problem-solving.",
+  bio: "I'm a software engineer at Ford Motor Company, specializing in web development with HTML5, Node.js, and JavaScript. I hold a bachelor's degree in computer science from Wayne State University and am currently pursuing a master's in AI at the University of Michigan. My focus lies in machine learning, computer vision, and NLP, aiming to contribute to Ford’s innovation in smart mobility while advancing ethical AI applications. I thrive in collaborative environments where technology meets problem-solving.",
   skills: [
     {
       title: "Machine Learning",
       icon: "brain",
       description: "",
-      subtitle: "Languages I speak:",
+      subtitle: "ML Techniques:",
       items: ["Predictive modeling, Deep learning, XGBoost, Ensemble Methods"],
       tools: {
         title: "Frameworks:",
